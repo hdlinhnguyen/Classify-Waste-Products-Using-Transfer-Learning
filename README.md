@@ -1,1 +1,1 @@
-# Classify-Waste-Products-Using-Transfer-Learning
+# Side Project: Classification using Transfer Learning
